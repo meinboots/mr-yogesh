@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mr-yogesh
-- 👀 I’m interested Java
-- 🌱 I’m currently Spring Boot & React
+- 👋 Hi, I’m Yogesh
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Spring Boot & React
 - 💞️ I’m looking for nothing as of now
 - 📫 Mail me on -> coolguy@duck.com
 
