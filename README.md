@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yogesh
-- 👀 I’m interested in Java
+- 👀 I’m interested in Java, Spring Boot, JavaScript, Node JS, React JS.
 - 🌱 I’m currently learning Spring Boot & React
 - 💞️ I’m looking for nothing as of now
 - 📫 Mail me on -> coolguy@duck.com
