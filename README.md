@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 I’m currently working on [ING Bank's Project](https://www.ing.com/Home.htm)<br><br>- 🌱 I’m currently learning **MERN Stack**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/mr-yogesh](https://github.com/mr-yogesh)<br><br>- 💬 Ask me about **Node, React, Java, Tailwind, Spring Boot**<br><br>- 📫 How to reach me **coolguy@duck.com**<br><br>- ⚡ Fun fact **I love to watch animation movies 😊**
+-🔭 I’m currently working on [ING Bank's Project](https://www.ing.com/Home.htm)<br>- 🌱 I’m currently learning **MERN Stack**<br>- 👨‍💻 All of my projects are available at [https://github.com/mr-yogesh](https://github.com/mr-yogesh)<br>- 💬 Ask me about **Node, React, Java, Tailwind, Spring Boot**<br>- 📫 How to reach me **coolguy@duck.com**<br>- ⚡ Fun fact **I love to watch animation movies 😊**
 
 
 # 🌐 Socials:
